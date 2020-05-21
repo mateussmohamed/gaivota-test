@@ -22,19 +22,18 @@
     ]
   },
   "dependencies": {
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1"
   },
   "devDependencies": {
-    "customize-cra": "^0.8.0",
-    "eslint-config-prettier": "^4.3.0",
-    "eslint-plugin-prettier": "^3.1.1",
-    "eslint-plugin-react": "^7.12.4",
-    "eslint-plugin-react-hooks": "^1.6.0",
-    "prettier": "^1.17.1",
-    "react-app-rewired": "^2.1.4",
-    "react-hot-loader": "^4.12.15"
+    "customize-cra": "^0.9.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.2",
+    "prettier": "^2.0.5",
+    "react-app-rewired": "^2.1.6"
   }
 }
