@@ -1,0 +1,21 @@
+{
+    "id": "feature",
+    "label": "Feature",
+    "placeholder": "Feature",
+    "options": [
+        {
+            "id": 0,
+            "name": "ndvi",
+            "chart_type": "line",
+            "min_value": 0,
+            "max_value": 1
+        },
+        {
+            "id": 1,
+            "name": "precipitation",
+            "chart_type": "bar",
+            "min_value": 0,
+            "max_value": 25
+        }
+    ]
+}

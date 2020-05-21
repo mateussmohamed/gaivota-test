@@ -1,0 +1,15 @@
+version: "3.7"
+services:
+  client:
+    build: ./client
+    ports:
+      - "8082:3000"
+  server:
+    build: ./server
+    environment: 
+      - PORT=5000
+    ports:
+      - "8081:5000"
+  mongo:
+    image: mongo
+
