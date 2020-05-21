@@ -5,7 +5,7 @@ import Root from "./routes/root";
 
 import * as serviceWorker from "./serviceWorker";
 
-import "./styles/index.css";
+import "./styles/tailwind.generated.css";
 
 render(
   <React.StrictMode>
