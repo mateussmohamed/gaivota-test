@@ -6,6 +6,7 @@ import { isAuthenticated } from "../../services/auth";
 
 import Login from "../login";
 import Farms from "../farms/pages/farms";
+import FarmDetail from "../farms/pages/farm-detail";
 
 const checkRoutes = ["", "/", "/app", "/app/"];
 
@@ -45,11 +46,10 @@ const App = (props) => {
     return <Redirect to="/app/home" />;
   }
 
-  console.log(match.url);
-
   return (
     <>
       <Route path={`${match.url}app/farms`} component={Farms} />
+      <Route path={`${match.url}app/farm/:farm_id`} component={FarmDetail} />
       <Route path={`${match.url}login`} component={Login} />
     </>
   );
