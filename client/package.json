@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build:tailwind": "tailwindcss build src/styles/tailwind.css -o src/styles/tailwind.generated.css",
+    "build:tailwind": "tailwindcss build src/styles/main.css -o src/styles/main.generated.css",
     "prestart": "npm run build:tailwind",
     "prebuild": "npm run build:tailwind",
     "start": "react-app-rewired start",
@@ -28,6 +28,7 @@
     "leaflet": "^1.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-leaflet": "^2.7.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "tailwindcss": "^1.4.6"
