@@ -36,8 +36,6 @@ const App = (props) => {
 
   const isRoot = checkRoutes.includes(location.pathname);
 
-  console.log(location.pathname);
-
   if (!logged && location.pathname.includes("login")) {
     return <Redirect to="/login" />;
   }
