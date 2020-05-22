@@ -1,13 +1,14 @@
 import React, { useState } from "react";
 
-import Layout from "../../components/layout";
-import LoginButton from "./components/login-button";
-import FarmMap from "./components/farm-map";
-import FarmInformation from "./components/farm-information";
-import FarmSelect from "./components/farm-select";
+import Layout from "../../../components/layout";
+import LoginButton from "../../../components/login-button";
 
-import farmsData from "../../data/farms.json";
-import farmsGeoJSON from "../../data/farmsGeoJSON.json";
+import FarmMap from "../components/farm-map";
+import FarmInformation from "../components/farm-information";
+import FarmSelect from "../components/farm-select";
+
+import farmsData from "../../../data/farms.json";
+import farmsGeoJSON from "../../../data/farmsGeoJSON.json";
 
 const Home = () => {
   const [selectedFarm, setFarm] = useState(farmsData[0].farm_id);
