@@ -79,6 +79,7 @@ export const authenticate = async (email, password) => {
       const { token, userData } = data;
       if (token) {
         localStorage.setItem("token", token);
+        localStorage.setItem("userData", JSON.stringify(userData));
         return Promise.resolve(userData);
       }
       return Promise.reject();
@@ -94,4 +95,13 @@ export const authenticate = async (email, password) => {
  */
 export const logout = () => {
   localStorage.removeItem("token");
+  localStorage.removeItem("userData");
+};
+
+/**
+ * Get the logged user
+ * @function getUserData
+ */
+export const getUserData = () => {
+  return JSON.parse(localStorage.getItem("userData"));
 };
