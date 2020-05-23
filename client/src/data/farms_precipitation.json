@@ -1,0 +1,2888 @@
+[
+  {
+    "date": "2018-01-01",
+    "precipitation_221": 0,
+    "precipitation_231": 18,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-01-02",
+    "precipitation_221": 15,
+    "precipitation_231": 20,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-01-03",
+    "precipitation_221": 11,
+    "precipitation_231": 23,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-01-04",
+    "precipitation_221": 14,
+    "precipitation_231": 2,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-01-05",
+    "precipitation_221": 14,
+    "precipitation_231": 21,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-01-06",
+    "precipitation_221": 15,
+    "precipitation_231": 21,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-01-07",
+    "precipitation_221": 3,
+    "precipitation_231": 5,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-01-08",
+    "precipitation_221": 13,
+    "precipitation_231": 10,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-01-09",
+    "precipitation_221": 20,
+    "precipitation_231": 20,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-01-10",
+    "precipitation_221": 11,
+    "precipitation_231": 20,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-01-11",
+    "precipitation_221": 25,
+    "precipitation_231": 24,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-01-12",
+    "precipitation_221": 9,
+    "precipitation_231": 12,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-01-13",
+    "precipitation_221": 0,
+    "precipitation_231": 16,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-01-14",
+    "precipitation_221": 5,
+    "precipitation_231": 14,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-01-15",
+    "precipitation_221": 24,
+    "precipitation_231": 10,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-01-16",
+    "precipitation_221": 6,
+    "precipitation_231": 19,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-01-17",
+    "precipitation_221": 6,
+    "precipitation_231": 11,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-01-18",
+    "precipitation_221": 12,
+    "precipitation_231": 1,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-01-19",
+    "precipitation_221": 3,
+    "precipitation_231": 21,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-01-20",
+    "precipitation_221": 0,
+    "precipitation_231": 10,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-01-21",
+    "precipitation_221": 8,
+    "precipitation_231": 23,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-01-22",
+    "precipitation_221": 9,
+    "precipitation_231": 3,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-01-23",
+    "precipitation_221": 5,
+    "precipitation_231": 21,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-01-24",
+    "precipitation_221": 13,
+    "precipitation_231": 3,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-01-25",
+    "precipitation_221": 1,
+    "precipitation_231": 10,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-01-26",
+    "precipitation_221": 7,
+    "precipitation_231": 21,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-01-27",
+    "precipitation_221": 21,
+    "precipitation_231": 1,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-01-28",
+    "precipitation_221": 15,
+    "precipitation_231": 15,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-01-29",
+    "precipitation_221": 17,
+    "precipitation_231": 16,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-01-30",
+    "precipitation_221": 14,
+    "precipitation_231": 6,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-01-31",
+    "precipitation_221": 2,
+    "precipitation_231": 13,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-02-01",
+    "precipitation_221": 3,
+    "precipitation_231": 20,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-02-02",
+    "precipitation_221": 6,
+    "precipitation_231": 20,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-02-03",
+    "precipitation_221": 4,
+    "precipitation_231": 0,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-02-04",
+    "precipitation_221": 20,
+    "precipitation_231": 25,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-02-05",
+    "precipitation_221": 0,
+    "precipitation_231": 0,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-02-06",
+    "precipitation_221": 22,
+    "precipitation_231": 8,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-02-07",
+    "precipitation_221": 2,
+    "precipitation_231": 14,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-02-08",
+    "precipitation_221": 8,
+    "precipitation_231": 5,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-02-09",
+    "precipitation_221": 25,
+    "precipitation_231": 0,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-02-10",
+    "precipitation_221": 19,
+    "precipitation_231": 13,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-02-11",
+    "precipitation_221": 13,
+    "precipitation_231": 20,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-02-12",
+    "precipitation_221": 5,
+    "precipitation_231": 0,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-02-13",
+    "precipitation_221": 11,
+    "precipitation_231": 13,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-02-14",
+    "precipitation_221": 8,
+    "precipitation_231": 12,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-02-15",
+    "precipitation_221": 25,
+    "precipitation_231": 25,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-02-16",
+    "precipitation_221": 5,
+    "precipitation_231": 2,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-02-17",
+    "precipitation_221": 6,
+    "precipitation_231": 6,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-02-18",
+    "precipitation_221": 15,
+    "precipitation_231": 14,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-02-19",
+    "precipitation_221": 15,
+    "precipitation_231": 13,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-02-20",
+    "precipitation_221": 11,
+    "precipitation_231": 5,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-02-21",
+    "precipitation_221": 14,
+    "precipitation_231": 17,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-02-22",
+    "precipitation_221": 25,
+    "precipitation_231": 21,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-02-23",
+    "precipitation_221": 2,
+    "precipitation_231": 1,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-02-24",
+    "precipitation_221": 10,
+    "precipitation_231": 2,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-02-25",
+    "precipitation_221": 17,
+    "precipitation_231": 1,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-02-26",
+    "precipitation_221": 17,
+    "precipitation_231": 10,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-02-27",
+    "precipitation_221": 9,
+    "precipitation_231": 8,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-02-28",
+    "precipitation_221": 16,
+    "precipitation_231": 7,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-03-01",
+    "precipitation_221": 1,
+    "precipitation_231": 7,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-03-02",
+    "precipitation_221": 18,
+    "precipitation_231": 22,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-03-03",
+    "precipitation_221": 14,
+    "precipitation_231": 9,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-03-04",
+    "precipitation_221": 2,
+    "precipitation_231": 6,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-03-05",
+    "precipitation_221": 23,
+    "precipitation_231": 6,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-03-06",
+    "precipitation_221": 25,
+    "precipitation_231": 0,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-03-07",
+    "precipitation_221": 3,
+    "precipitation_231": 6,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-03-08",
+    "precipitation_221": 1,
+    "precipitation_231": 4,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-03-09",
+    "precipitation_221": 20,
+    "precipitation_231": 23,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-03-10",
+    "precipitation_221": 1,
+    "precipitation_231": 25,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-03-11",
+    "precipitation_221": 14,
+    "precipitation_231": 3,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-03-12",
+    "precipitation_221": 22,
+    "precipitation_231": 11,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-03-13",
+    "precipitation_221": 2,
+    "precipitation_231": 17,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-03-14",
+    "precipitation_221": 16,
+    "precipitation_231": 21,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-03-15",
+    "precipitation_221": 1,
+    "precipitation_231": 22,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-03-16",
+    "precipitation_221": 13,
+    "precipitation_231": 4,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-03-17",
+    "precipitation_221": 5,
+    "precipitation_231": 5,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-03-18",
+    "precipitation_221": 25,
+    "precipitation_231": 3,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-03-19",
+    "precipitation_221": 23,
+    "precipitation_231": 21,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-03-20",
+    "precipitation_221": 7,
+    "precipitation_231": 4,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-03-21",
+    "precipitation_221": 8,
+    "precipitation_231": 7,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-03-22",
+    "precipitation_221": 4,
+    "precipitation_231": 0,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-03-23",
+    "precipitation_221": 19,
+    "precipitation_231": 11,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-03-24",
+    "precipitation_221": 10,
+    "precipitation_231": 25,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-03-25",
+    "precipitation_221": 18,
+    "precipitation_231": 14,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-03-26",
+    "precipitation_221": 1,
+    "precipitation_231": 8,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-03-27",
+    "precipitation_221": 2,
+    "precipitation_231": 17,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-03-28",
+    "precipitation_221": 11,
+    "precipitation_231": 18,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-03-29",
+    "precipitation_221": 5,
+    "precipitation_231": 17,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-03-30",
+    "precipitation_221": 13,
+    "precipitation_231": 10,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-03-31",
+    "precipitation_221": 6,
+    "precipitation_231": 15,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-04-01",
+    "precipitation_221": 20,
+    "precipitation_231": 8,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-04-02",
+    "precipitation_221": 1,
+    "precipitation_231": 11,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-04-03",
+    "precipitation_221": 9,
+    "precipitation_231": 24,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-04-04",
+    "precipitation_221": 1,
+    "precipitation_231": 0,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-04-05",
+    "precipitation_221": 22,
+    "precipitation_231": 24,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-04-06",
+    "precipitation_221": 8,
+    "precipitation_231": 11,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-04-07",
+    "precipitation_221": 3,
+    "precipitation_231": 5,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-04-08",
+    "precipitation_221": 8,
+    "precipitation_231": 0,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-04-09",
+    "precipitation_221": 6,
+    "precipitation_231": 21,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-04-10",
+    "precipitation_221": 5,
+    "precipitation_231": 14,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-04-11",
+    "precipitation_221": 11,
+    "precipitation_231": 16,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-04-12",
+    "precipitation_221": 20,
+    "precipitation_231": 21,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-04-13",
+    "precipitation_221": 15,
+    "precipitation_231": 13,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-04-14",
+    "precipitation_221": 18,
+    "precipitation_231": 5,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-04-15",
+    "precipitation_221": 7,
+    "precipitation_231": 13,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-04-16",
+    "precipitation_221": 5,
+    "precipitation_231": 4,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-04-17",
+    "precipitation_221": 20,
+    "precipitation_231": 13,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-04-18",
+    "precipitation_221": 4,
+    "precipitation_231": 16,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-04-19",
+    "precipitation_221": 0,
+    "precipitation_231": 11,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-04-20",
+    "precipitation_221": 20,
+    "precipitation_231": 5,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-04-21",
+    "precipitation_221": 11,
+    "precipitation_231": 20,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-04-22",
+    "precipitation_221": 13,
+    "precipitation_231": 24,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-04-23",
+    "precipitation_221": 11,
+    "precipitation_231": 10,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-04-24",
+    "precipitation_221": 9,
+    "precipitation_231": 11,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-04-25",
+    "precipitation_221": 16,
+    "precipitation_231": 4,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-04-26",
+    "precipitation_221": 19,
+    "precipitation_231": 14,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-04-27",
+    "precipitation_221": 22,
+    "precipitation_231": 14,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-04-28",
+    "precipitation_221": 1,
+    "precipitation_231": 20,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-04-29",
+    "precipitation_221": 4,
+    "precipitation_231": 14,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-04-30",
+    "precipitation_221": 11,
+    "precipitation_231": 6,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-05-01",
+    "precipitation_221": 4,
+    "precipitation_231": 18,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-05-02",
+    "precipitation_221": 8,
+    "precipitation_231": 19,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-05-03",
+    "precipitation_221": 3,
+    "precipitation_231": 22,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-05-04",
+    "precipitation_221": 5,
+    "precipitation_231": 25,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-05-05",
+    "precipitation_221": 25,
+    "precipitation_231": 19,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-05-06",
+    "precipitation_221": 19,
+    "precipitation_231": 0,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-05-07",
+    "precipitation_221": 2,
+    "precipitation_231": 5,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-05-08",
+    "precipitation_221": 10,
+    "precipitation_231": 13,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-05-09",
+    "precipitation_221": 10,
+    "precipitation_231": 20,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-05-10",
+    "precipitation_221": 7,
+    "precipitation_231": 12,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-05-11",
+    "precipitation_221": 4,
+    "precipitation_231": 5,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-05-12",
+    "precipitation_221": 10,
+    "precipitation_231": 0,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-05-13",
+    "precipitation_221": 13,
+    "precipitation_231": 13,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-05-14",
+    "precipitation_221": 9,
+    "precipitation_231": 15,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-05-15",
+    "precipitation_221": 19,
+    "precipitation_231": 3,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-05-16",
+    "precipitation_221": 16,
+    "precipitation_231": 17,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-05-17",
+    "precipitation_221": 6,
+    "precipitation_231": 25,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-05-18",
+    "precipitation_221": 17,
+    "precipitation_231": 24,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-05-19",
+    "precipitation_221": 12,
+    "precipitation_231": 0,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-05-20",
+    "precipitation_221": 5,
+    "precipitation_231": 23,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-05-21",
+    "precipitation_221": 24,
+    "precipitation_231": 5,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-05-22",
+    "precipitation_221": 15,
+    "precipitation_231": 1,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-05-23",
+    "precipitation_221": 16,
+    "precipitation_231": 19,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-05-24",
+    "precipitation_221": 7,
+    "precipitation_231": 15,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-05-25",
+    "precipitation_221": 3,
+    "precipitation_231": 7,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-05-26",
+    "precipitation_221": 25,
+    "precipitation_231": 25,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-05-27",
+    "precipitation_221": 16,
+    "precipitation_231": 22,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-05-28",
+    "precipitation_221": 7,
+    "precipitation_231": 4,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-05-29",
+    "precipitation_221": 18,
+    "precipitation_231": 17,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-05-30",
+    "precipitation_221": 15,
+    "precipitation_231": 19,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-05-31",
+    "precipitation_221": 15,
+    "precipitation_231": 9,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-06-01",
+    "precipitation_221": 25,
+    "precipitation_231": 15,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-06-02",
+    "precipitation_221": 19,
+    "precipitation_231": 21,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-06-03",
+    "precipitation_221": 12,
+    "precipitation_231": 15,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-06-04",
+    "precipitation_221": 17,
+    "precipitation_231": 11,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-06-05",
+    "precipitation_221": 4,
+    "precipitation_231": 15,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-06-06",
+    "precipitation_221": 19,
+    "precipitation_231": 18,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-06-07",
+    "precipitation_221": 3,
+    "precipitation_231": 12,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-06-08",
+    "precipitation_221": 9,
+    "precipitation_231": 10,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-06-09",
+    "precipitation_221": 6,
+    "precipitation_231": 10,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-06-10",
+    "precipitation_221": 16,
+    "precipitation_231": 16,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-06-11",
+    "precipitation_221": 22,
+    "precipitation_231": 18,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-06-12",
+    "precipitation_221": 6,
+    "precipitation_231": 14,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-06-13",
+    "precipitation_221": 6,
+    "precipitation_231": 15,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-06-14",
+    "precipitation_221": 4,
+    "precipitation_231": 9,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-06-15",
+    "precipitation_221": 10,
+    "precipitation_231": 2,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-06-16",
+    "precipitation_221": 24,
+    "precipitation_231": 6,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-06-17",
+    "precipitation_221": 9,
+    "precipitation_231": 18,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-06-18",
+    "precipitation_221": 25,
+    "precipitation_231": 13,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-06-19",
+    "precipitation_221": 15,
+    "precipitation_231": 0,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-06-20",
+    "precipitation_221": 8,
+    "precipitation_231": 19,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-06-21",
+    "precipitation_221": 25,
+    "precipitation_231": 9,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-06-22",
+    "precipitation_221": 21,
+    "precipitation_231": 1,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-06-23",
+    "precipitation_221": 22,
+    "precipitation_231": 9,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-06-24",
+    "precipitation_221": 3,
+    "precipitation_231": 5,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-06-25",
+    "precipitation_221": 14,
+    "precipitation_231": 16,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-06-26",
+    "precipitation_221": 10,
+    "precipitation_231": 2,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-06-27",
+    "precipitation_221": 0,
+    "precipitation_231": 12,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-06-28",
+    "precipitation_221": 22,
+    "precipitation_231": 4,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-06-29",
+    "precipitation_221": 11,
+    "precipitation_231": 1,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-06-30",
+    "precipitation_221": 6,
+    "precipitation_231": 16,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-07-01",
+    "precipitation_221": 4,
+    "precipitation_231": 4,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-07-02",
+    "precipitation_221": 18,
+    "precipitation_231": 14,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-07-03",
+    "precipitation_221": 18,
+    "precipitation_231": 14,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-07-04",
+    "precipitation_221": 1,
+    "precipitation_231": 1,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-07-05",
+    "precipitation_221": 5,
+    "precipitation_231": 14,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-07-06",
+    "precipitation_221": 3,
+    "precipitation_231": 23,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-07-07",
+    "precipitation_221": 18,
+    "precipitation_231": 21,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-07-08",
+    "precipitation_221": 8,
+    "precipitation_231": 13,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-07-09",
+    "precipitation_221": 8,
+    "precipitation_231": 0,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-07-10",
+    "precipitation_221": 5,
+    "precipitation_231": 2,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-07-11",
+    "precipitation_221": 1,
+    "precipitation_231": 7,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-07-12",
+    "precipitation_221": 17,
+    "precipitation_231": 14,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-07-13",
+    "precipitation_221": 4,
+    "precipitation_231": 0,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-07-14",
+    "precipitation_221": 25,
+    "precipitation_231": 18,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-07-15",
+    "precipitation_221": 13,
+    "precipitation_231": 8,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-07-16",
+    "precipitation_221": 17,
+    "precipitation_231": 2,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-07-17",
+    "precipitation_221": 9,
+    "precipitation_231": 12,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-07-18",
+    "precipitation_221": 1,
+    "precipitation_231": 17,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-07-19",
+    "precipitation_221": 11,
+    "precipitation_231": 3,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-07-20",
+    "precipitation_221": 6,
+    "precipitation_231": 5,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-07-21",
+    "precipitation_221": 22,
+    "precipitation_231": 12,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-07-22",
+    "precipitation_221": 6,
+    "precipitation_231": 9,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-07-23",
+    "precipitation_221": 0,
+    "precipitation_231": 25,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-07-24",
+    "precipitation_221": 16,
+    "precipitation_231": 22,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-07-25",
+    "precipitation_221": 4,
+    "precipitation_231": 22,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-07-26",
+    "precipitation_221": 14,
+    "precipitation_231": 25,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-07-27",
+    "precipitation_221": 23,
+    "precipitation_231": 12,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-07-28",
+    "precipitation_221": 20,
+    "precipitation_231": 4,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-07-29",
+    "precipitation_221": 8,
+    "precipitation_231": 2,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-07-30",
+    "precipitation_221": 21,
+    "precipitation_231": 7,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-07-31",
+    "precipitation_221": 21,
+    "precipitation_231": 13,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-08-01",
+    "precipitation_221": 23,
+    "precipitation_231": 16,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-08-02",
+    "precipitation_221": 12,
+    "precipitation_231": 23,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-08-03",
+    "precipitation_221": 25,
+    "precipitation_231": 24,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-08-04",
+    "precipitation_221": 15,
+    "precipitation_231": 17,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-08-05",
+    "precipitation_221": 8,
+    "precipitation_231": 9,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-08-06",
+    "precipitation_221": 0,
+    "precipitation_231": 8,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-08-07",
+    "precipitation_221": 1,
+    "precipitation_231": 10,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-08-08",
+    "precipitation_221": 16,
+    "precipitation_231": 3,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-08-09",
+    "precipitation_221": 8,
+    "precipitation_231": 8,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-08-10",
+    "precipitation_221": 15,
+    "precipitation_231": 14,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-08-11",
+    "precipitation_221": 6,
+    "precipitation_231": 14,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-08-12",
+    "precipitation_221": 17,
+    "precipitation_231": 15,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-08-13",
+    "precipitation_221": 5,
+    "precipitation_231": 16,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-08-14",
+    "precipitation_221": 4,
+    "precipitation_231": 12,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-08-15",
+    "precipitation_221": 1,
+    "precipitation_231": 13,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-08-16",
+    "precipitation_221": 24,
+    "precipitation_231": 19,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-08-17",
+    "precipitation_221": 24,
+    "precipitation_231": 24,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-08-18",
+    "precipitation_221": 13,
+    "precipitation_231": 21,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-08-19",
+    "precipitation_221": 20,
+    "precipitation_231": 7,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-08-20",
+    "precipitation_221": 14,
+    "precipitation_231": 2,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-08-21",
+    "precipitation_221": 18,
+    "precipitation_231": 0,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-08-22",
+    "precipitation_221": 20,
+    "precipitation_231": 24,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-08-23",
+    "precipitation_221": 11,
+    "precipitation_231": 21,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-08-24",
+    "precipitation_221": 9,
+    "precipitation_231": 25,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-08-25",
+    "precipitation_221": 18,
+    "precipitation_231": 14,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-08-26",
+    "precipitation_221": 11,
+    "precipitation_231": 24,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-08-27",
+    "precipitation_221": 3,
+    "precipitation_231": 12,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-08-28",
+    "precipitation_221": 10,
+    "precipitation_231": 18,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-08-29",
+    "precipitation_221": 10,
+    "precipitation_231": 13,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-08-30",
+    "precipitation_221": 17,
+    "precipitation_231": 14,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-08-31",
+    "precipitation_221": 22,
+    "precipitation_231": 25,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-09-01",
+    "precipitation_221": 0,
+    "precipitation_231": 19,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-09-02",
+    "precipitation_221": 8,
+    "precipitation_231": 25,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-09-03",
+    "precipitation_221": 23,
+    "precipitation_231": 14,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-09-04",
+    "precipitation_221": 2,
+    "precipitation_231": 23,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-09-05",
+    "precipitation_221": 1,
+    "precipitation_231": 6,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-09-06",
+    "precipitation_221": 6,
+    "precipitation_231": 20,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-09-07",
+    "precipitation_221": 21,
+    "precipitation_231": 6,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-09-08",
+    "precipitation_221": 10,
+    "precipitation_231": 8,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-09-09",
+    "precipitation_221": 6,
+    "precipitation_231": 7,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-09-10",
+    "precipitation_221": 22,
+    "precipitation_231": 20,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-09-11",
+    "precipitation_221": 7,
+    "precipitation_231": 22,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-09-12",
+    "precipitation_221": 2,
+    "precipitation_231": 5,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-09-13",
+    "precipitation_221": 22,
+    "precipitation_231": 8,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-09-14",
+    "precipitation_221": 6,
+    "precipitation_231": 4,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-09-15",
+    "precipitation_221": 20,
+    "precipitation_231": 3,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-09-16",
+    "precipitation_221": 13,
+    "precipitation_231": 14,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-09-17",
+    "precipitation_221": 18,
+    "precipitation_231": 14,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-09-18",
+    "precipitation_221": 22,
+    "precipitation_231": 14,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-09-19",
+    "precipitation_221": 25,
+    "precipitation_231": 2,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-09-20",
+    "precipitation_221": 9,
+    "precipitation_231": 5,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-09-21",
+    "precipitation_221": 12,
+    "precipitation_231": 24,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-09-22",
+    "precipitation_221": 16,
+    "precipitation_231": 8,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-09-23",
+    "precipitation_221": 16,
+    "precipitation_231": 11,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-09-24",
+    "precipitation_221": 9,
+    "precipitation_231": 8,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-09-25",
+    "precipitation_221": 15,
+    "precipitation_231": 24,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-09-26",
+    "precipitation_221": 21,
+    "precipitation_231": 22,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-09-27",
+    "precipitation_221": 17,
+    "precipitation_231": 2,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-09-28",
+    "precipitation_221": 15,
+    "precipitation_231": 13,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-09-29",
+    "precipitation_221": 10,
+    "precipitation_231": 17,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-09-30",
+    "precipitation_221": 2,
+    "precipitation_231": 7,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-10-01",
+    "precipitation_221": 1,
+    "precipitation_231": 17,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-10-02",
+    "precipitation_221": 7,
+    "precipitation_231": 6,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-10-03",
+    "precipitation_221": 2,
+    "precipitation_231": 9,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-10-04",
+    "precipitation_221": 9,
+    "precipitation_231": 1,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-10-05",
+    "precipitation_221": 15,
+    "precipitation_231": 14,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-10-06",
+    "precipitation_221": 18,
+    "precipitation_231": 7,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-10-07",
+    "precipitation_221": 8,
+    "precipitation_231": 20,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-10-08",
+    "precipitation_221": 2,
+    "precipitation_231": 20,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-10-09",
+    "precipitation_221": 19,
+    "precipitation_231": 17,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-10-10",
+    "precipitation_221": 6,
+    "precipitation_231": 0,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-10-11",
+    "precipitation_221": 14,
+    "precipitation_231": 8,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-10-12",
+    "precipitation_221": 23,
+    "precipitation_231": 6,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-10-13",
+    "precipitation_221": 4,
+    "precipitation_231": 19,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-10-14",
+    "precipitation_221": 12,
+    "precipitation_231": 22,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-10-15",
+    "precipitation_221": 4,
+    "precipitation_231": 5,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-10-16",
+    "precipitation_221": 15,
+    "precipitation_231": 12,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-10-17",
+    "precipitation_221": 1,
+    "precipitation_231": 15,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-10-18",
+    "precipitation_221": 3,
+    "precipitation_231": 5,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-10-19",
+    "precipitation_221": 21,
+    "precipitation_231": 2,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-10-20",
+    "precipitation_221": 13,
+    "precipitation_231": 18,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-10-21",
+    "precipitation_221": 19,
+    "precipitation_231": 13,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-10-22",
+    "precipitation_221": 25,
+    "precipitation_231": 5,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-10-23",
+    "precipitation_221": 9,
+    "precipitation_231": 8,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-10-24",
+    "precipitation_221": 3,
+    "precipitation_231": 0,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-10-25",
+    "precipitation_221": 20,
+    "precipitation_231": 25,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-10-26",
+    "precipitation_221": 16,
+    "precipitation_231": 0,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-10-27",
+    "precipitation_221": 2,
+    "precipitation_231": 25,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-10-28",
+    "precipitation_221": 24,
+    "precipitation_231": 9,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-10-29",
+    "precipitation_221": 9,
+    "precipitation_231": 5,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-10-30",
+    "precipitation_221": 1,
+    "precipitation_231": 23,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-10-31",
+    "precipitation_221": 10,
+    "precipitation_231": 2,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-11-01",
+    "precipitation_221": 8,
+    "precipitation_231": 2,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-11-02",
+    "precipitation_221": 18,
+    "precipitation_231": 25,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-11-03",
+    "precipitation_221": 15,
+    "precipitation_231": 15,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-11-04",
+    "precipitation_221": 0,
+    "precipitation_231": 0,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-11-05",
+    "precipitation_221": 9,
+    "precipitation_231": 7,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2018-11-06",
+    "precipitation_221": 25,
+    "precipitation_231": 2,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-11-07",
+    "precipitation_221": 12,
+    "precipitation_231": 22,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-11-08",
+    "precipitation_221": 6,
+    "precipitation_231": 10,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-11-09",
+    "precipitation_221": 6,
+    "precipitation_231": 4,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-11-10",
+    "precipitation_221": 4,
+    "precipitation_231": 2,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-11-11",
+    "precipitation_221": 16,
+    "precipitation_231": 24,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2018-11-12",
+    "precipitation_221": 6,
+    "precipitation_231": 13,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-11-13",
+    "precipitation_221": 11,
+    "precipitation_231": 3,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-11-14",
+    "precipitation_221": 1,
+    "precipitation_231": 16,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-11-15",
+    "precipitation_221": 11,
+    "precipitation_231": 17,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-11-16",
+    "precipitation_221": 24,
+    "precipitation_231": 5,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-11-17",
+    "precipitation_221": 1,
+    "precipitation_231": 4,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-11-18",
+    "precipitation_221": 8,
+    "precipitation_231": 20,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-11-19",
+    "precipitation_221": 4,
+    "precipitation_231": 18,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2018-11-20",
+    "precipitation_221": 20,
+    "precipitation_231": 2,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-11-21",
+    "precipitation_221": 18,
+    "precipitation_231": 25,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-11-22",
+    "precipitation_221": 9,
+    "precipitation_231": 4,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2018-11-23",
+    "precipitation_221": 14,
+    "precipitation_231": 19,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-11-24",
+    "precipitation_221": 6,
+    "precipitation_231": 8,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2018-11-25",
+    "precipitation_221": 5,
+    "precipitation_231": 25,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-11-26",
+    "precipitation_221": 22,
+    "precipitation_231": 3,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-11-27",
+    "precipitation_221": 7,
+    "precipitation_231": 24,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2018-11-28",
+    "precipitation_221": 15,
+    "precipitation_231": 20,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-11-29",
+    "precipitation_221": 24,
+    "precipitation_231": 24,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-11-30",
+    "precipitation_221": 2,
+    "precipitation_231": 15,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-12-01",
+    "precipitation_221": 2,
+    "precipitation_231": 5,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-12-02",
+    "precipitation_221": 0,
+    "precipitation_231": 18,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2018-12-03",
+    "precipitation_221": 22,
+    "precipitation_231": 13,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-12-04",
+    "precipitation_221": 19,
+    "precipitation_231": 0,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2018-12-05",
+    "precipitation_221": 23,
+    "precipitation_231": 18,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2018-12-06",
+    "precipitation_221": 20,
+    "precipitation_231": 22,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2018-12-07",
+    "precipitation_221": 10,
+    "precipitation_231": 8,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2018-12-08",
+    "precipitation_221": 17,
+    "precipitation_231": 16,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-12-09",
+    "precipitation_221": 12,
+    "precipitation_231": 0,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-12-10",
+    "precipitation_221": 25,
+    "precipitation_231": 10,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-12-11",
+    "precipitation_221": 7,
+    "precipitation_231": 20,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-12-12",
+    "precipitation_221": 7,
+    "precipitation_231": 23,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2018-12-13",
+    "precipitation_221": 4,
+    "precipitation_231": 15,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2018-12-14",
+    "precipitation_221": 16,
+    "precipitation_231": 22,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-12-15",
+    "precipitation_221": 13,
+    "precipitation_231": 17,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2018-12-16",
+    "precipitation_221": 24,
+    "precipitation_231": 16,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2018-12-17",
+    "precipitation_221": 3,
+    "precipitation_231": 17,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2018-12-18",
+    "precipitation_221": 4,
+    "precipitation_231": 25,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-12-19",
+    "precipitation_221": 0,
+    "precipitation_231": 9,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-12-20",
+    "precipitation_221": 13,
+    "precipitation_231": 21,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2018-12-21",
+    "precipitation_221": 18,
+    "precipitation_231": 16,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2018-12-22",
+    "precipitation_221": 5,
+    "precipitation_231": 3,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2018-12-23",
+    "precipitation_221": 22,
+    "precipitation_231": 11,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2018-12-24",
+    "precipitation_221": 21,
+    "precipitation_231": 23,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-12-25",
+    "precipitation_221": 18,
+    "precipitation_231": 24,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2018-12-26",
+    "precipitation_221": 5,
+    "precipitation_231": 24,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2018-12-27",
+    "precipitation_221": 22,
+    "precipitation_231": 3,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2018-12-28",
+    "precipitation_221": 23,
+    "precipitation_231": 24,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2018-12-29",
+    "precipitation_221": 1,
+    "precipitation_231": 4,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2018-12-30",
+    "precipitation_221": 6,
+    "precipitation_231": 24,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2018-12-31",
+    "precipitation_221": 23,
+    "precipitation_231": 22,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2019-01-01",
+    "precipitation_221": 20,
+    "precipitation_231": 20,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-01-02",
+    "precipitation_221": 4,
+    "precipitation_231": 13,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2019-01-03",
+    "precipitation_221": 13,
+    "precipitation_231": 24,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-01-04",
+    "precipitation_221": 11,
+    "precipitation_231": 12,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-01-05",
+    "precipitation_221": 6,
+    "precipitation_231": 24,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2019-01-06",
+    "precipitation_221": 17,
+    "precipitation_231": 0,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-01-07",
+    "precipitation_221": 11,
+    "precipitation_231": 19,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2019-01-08",
+    "precipitation_221": 2,
+    "precipitation_231": 3,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-01-09",
+    "precipitation_221": 23,
+    "precipitation_231": 15,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2019-01-10",
+    "precipitation_221": 15,
+    "precipitation_231": 5,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-01-11",
+    "precipitation_221": 23,
+    "precipitation_231": 24,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2019-01-12",
+    "precipitation_221": 21,
+    "precipitation_231": 17,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2019-01-13",
+    "precipitation_221": 11,
+    "precipitation_231": 19,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-01-14",
+    "precipitation_221": 23,
+    "precipitation_231": 6,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2019-01-15",
+    "precipitation_221": 11,
+    "precipitation_231": 5,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2019-01-16",
+    "precipitation_221": 1,
+    "precipitation_231": 2,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-01-17",
+    "precipitation_221": 21,
+    "precipitation_231": 14,
+    "precipitation_271": 8
+  },
+  {
+    "date": "2019-01-18",
+    "precipitation_221": 15,
+    "precipitation_231": 4,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2019-01-19",
+    "precipitation_221": 21,
+    "precipitation_231": 11,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-01-20",
+    "precipitation_221": 2,
+    "precipitation_231": 17,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2019-01-21",
+    "precipitation_221": 15,
+    "precipitation_231": 23,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2019-01-22",
+    "precipitation_221": 18,
+    "precipitation_231": 17,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2019-01-23",
+    "precipitation_221": 0,
+    "precipitation_231": 7,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-01-24",
+    "precipitation_221": 24,
+    "precipitation_231": 23,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2019-01-25",
+    "precipitation_221": 8,
+    "precipitation_231": 14,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2019-01-26",
+    "precipitation_221": 0,
+    "precipitation_231": 11,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2019-01-27",
+    "precipitation_221": 6,
+    "precipitation_231": 6,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2019-01-28",
+    "precipitation_221": 13,
+    "precipitation_231": 19,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2019-01-29",
+    "precipitation_221": 12,
+    "precipitation_231": 4,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2019-01-30",
+    "precipitation_221": 5,
+    "precipitation_231": 4,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2019-01-31",
+    "precipitation_221": 9,
+    "precipitation_231": 21,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-02-01",
+    "precipitation_221": 25,
+    "precipitation_231": 6,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2019-02-02",
+    "precipitation_221": 19,
+    "precipitation_231": 16,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2019-02-03",
+    "precipitation_221": 5,
+    "precipitation_231": 17,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2019-02-04",
+    "precipitation_221": 17,
+    "precipitation_231": 0,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2019-02-05",
+    "precipitation_221": 19,
+    "precipitation_231": 1,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2019-02-06",
+    "precipitation_221": 22,
+    "precipitation_231": 25,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-02-07",
+    "precipitation_221": 0,
+    "precipitation_231": 7,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2019-02-08",
+    "precipitation_221": 3,
+    "precipitation_231": 0,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-02-09",
+    "precipitation_221": 6,
+    "precipitation_231": 11,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2019-02-10",
+    "precipitation_221": 2,
+    "precipitation_231": 15,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-02-11",
+    "precipitation_221": 0,
+    "precipitation_231": 16,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-02-12",
+    "precipitation_221": 14,
+    "precipitation_231": 21,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2019-02-13",
+    "precipitation_221": 18,
+    "precipitation_231": 21,
+    "precipitation_271": 24
+  },
+  {
+    "date": "2019-02-14",
+    "precipitation_221": 8,
+    "precipitation_231": 25,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2019-02-15",
+    "precipitation_221": 16,
+    "precipitation_231": 22,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2019-02-16",
+    "precipitation_221": 2,
+    "precipitation_231": 9,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2019-02-17",
+    "precipitation_221": 14,
+    "precipitation_231": 4,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2019-02-18",
+    "precipitation_221": 3,
+    "precipitation_231": 17,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-02-19",
+    "precipitation_221": 13,
+    "precipitation_231": 1,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2019-02-20",
+    "precipitation_221": 22,
+    "precipitation_231": 13,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2019-02-21",
+    "precipitation_221": 20,
+    "precipitation_231": 19,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2019-02-22",
+    "precipitation_221": 8,
+    "precipitation_231": 7,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2019-02-23",
+    "precipitation_221": 12,
+    "precipitation_231": 7,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-02-24",
+    "precipitation_221": 11,
+    "precipitation_231": 11,
+    "precipitation_271": 9
+  },
+  {
+    "date": "2019-02-25",
+    "precipitation_221": 21,
+    "precipitation_231": 20,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-02-26",
+    "precipitation_221": 5,
+    "precipitation_231": 19,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2019-02-27",
+    "precipitation_221": 15,
+    "precipitation_231": 24,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-02-28",
+    "precipitation_221": 25,
+    "precipitation_231": 20,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2019-03-01",
+    "precipitation_221": 11,
+    "precipitation_231": 5,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2019-03-02",
+    "precipitation_221": 17,
+    "precipitation_231": 11,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2019-03-03",
+    "precipitation_221": 23,
+    "precipitation_231": 23,
+    "precipitation_271": 12
+  },
+  {
+    "date": "2019-03-04",
+    "precipitation_221": 0,
+    "precipitation_231": 10,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2019-03-05",
+    "precipitation_221": 18,
+    "precipitation_231": 8,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2019-03-06",
+    "precipitation_221": 4,
+    "precipitation_231": 5,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2019-03-07",
+    "precipitation_221": 8,
+    "precipitation_231": 14,
+    "precipitation_271": 6
+  },
+  {
+    "date": "2019-03-08",
+    "precipitation_221": 19,
+    "precipitation_231": 22,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2019-03-09",
+    "precipitation_221": 5,
+    "precipitation_231": 25,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-03-10",
+    "precipitation_221": 20,
+    "precipitation_231": 16,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2019-03-11",
+    "precipitation_221": 22,
+    "precipitation_231": 22,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2019-03-12",
+    "precipitation_221": 12,
+    "precipitation_231": 13,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2019-03-13",
+    "precipitation_221": 7,
+    "precipitation_231": 25,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2019-03-14",
+    "precipitation_221": 17,
+    "precipitation_231": 21,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2019-03-15",
+    "precipitation_221": 10,
+    "precipitation_231": 18,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-03-16",
+    "precipitation_221": 20,
+    "precipitation_231": 6,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2019-03-17",
+    "precipitation_221": 17,
+    "precipitation_231": 5,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-03-18",
+    "precipitation_221": 18,
+    "precipitation_231": 4,
+    "precipitation_271": 20
+  },
+  {
+    "date": "2019-03-19",
+    "precipitation_221": 0,
+    "precipitation_231": 11,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2019-03-20",
+    "precipitation_221": 16,
+    "precipitation_231": 13,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2019-03-21",
+    "precipitation_221": 0,
+    "precipitation_231": 9,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2019-03-22",
+    "precipitation_221": 19,
+    "precipitation_231": 24,
+    "precipitation_271": 17
+  },
+  {
+    "date": "2019-03-23",
+    "precipitation_221": 3,
+    "precipitation_231": 23,
+    "precipitation_271": 25
+  },
+  {
+    "date": "2019-03-24",
+    "precipitation_221": 18,
+    "precipitation_231": 18,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-03-25",
+    "precipitation_221": 5,
+    "precipitation_231": 18,
+    "precipitation_271": 2
+  },
+  {
+    "date": "2019-03-26",
+    "precipitation_221": 6,
+    "precipitation_231": 21,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2019-03-27",
+    "precipitation_221": 6,
+    "precipitation_231": 19,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-03-28",
+    "precipitation_221": 7,
+    "precipitation_231": 13,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-03-29",
+    "precipitation_221": 2,
+    "precipitation_231": 24,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2019-03-30",
+    "precipitation_221": 17,
+    "precipitation_231": 19,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2019-03-31",
+    "precipitation_221": 2,
+    "precipitation_231": 8,
+    "precipitation_271": 14
+  },
+  {
+    "date": "2019-04-01",
+    "precipitation_221": 12,
+    "precipitation_231": 14,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2019-04-02",
+    "precipitation_221": 6,
+    "precipitation_231": 21,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2019-04-03",
+    "precipitation_221": 14,
+    "precipitation_231": 7,
+    "precipitation_271": 7
+  },
+  {
+    "date": "2019-04-04",
+    "precipitation_221": 23,
+    "precipitation_231": 6,
+    "precipitation_271": 0
+  },
+  {
+    "date": "2019-04-05",
+    "precipitation_221": 15,
+    "precipitation_231": 8,
+    "precipitation_271": 21
+  },
+  {
+    "date": "2019-04-06",
+    "precipitation_221": 18,
+    "precipitation_231": 12,
+    "precipitation_271": 15
+  },
+  {
+    "date": "2019-04-07",
+    "precipitation_221": 25,
+    "precipitation_231": 25,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2019-04-08",
+    "precipitation_221": 20,
+    "precipitation_231": 2,
+    "precipitation_271": 23
+  },
+  {
+    "date": "2019-04-09",
+    "precipitation_221": 23,
+    "precipitation_231": 8,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2019-04-10",
+    "precipitation_221": 15,
+    "precipitation_231": 3,
+    "precipitation_271": 10
+  },
+  {
+    "date": "2019-04-11",
+    "precipitation_221": 2,
+    "precipitation_231": 19,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-04-12",
+    "precipitation_221": 12,
+    "precipitation_231": 9,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2019-04-13",
+    "precipitation_221": 20,
+    "precipitation_231": 22,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2019-04-14",
+    "precipitation_221": 23,
+    "precipitation_231": 3,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-04-15",
+    "precipitation_221": 1,
+    "precipitation_231": 22,
+    "precipitation_271": 11
+  },
+  {
+    "date": "2019-04-16",
+    "precipitation_221": 20,
+    "precipitation_231": 19,
+    "precipitation_271": 3
+  },
+  {
+    "date": "2019-04-17",
+    "precipitation_221": 13,
+    "precipitation_231": 5,
+    "precipitation_271": 18
+  },
+  {
+    "date": "2019-04-18",
+    "precipitation_221": 23,
+    "precipitation_231": 8,
+    "precipitation_271": 22
+  },
+  {
+    "date": "2019-04-19",
+    "precipitation_221": 6,
+    "precipitation_231": 12,
+    "precipitation_271": 19
+  },
+  {
+    "date": "2019-04-20",
+    "precipitation_221": 4,
+    "precipitation_231": 5,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2019-04-21",
+    "precipitation_221": 21,
+    "precipitation_231": 7,
+    "precipitation_271": 13
+  },
+  {
+    "date": "2019-04-22",
+    "precipitation_221": 10,
+    "precipitation_231": 23,
+    "precipitation_271": 4
+  },
+  {
+    "date": "2019-04-23",
+    "precipitation_221": 8,
+    "precipitation_231": 10,
+    "precipitation_271": 16
+  },
+  {
+    "date": "2019-04-24",
+    "precipitation_221": 0,
+    "precipitation_231": 23,
+    "precipitation_271": 1
+  },
+  {
+    "date": "2019-04-25",
+    "precipitation_221": 12,
+    "precipitation_231": 25,
+    "precipitation_271": 5
+  },
+  {
+    "date": "2019-04-26",
+    "precipitation_221": 10,
+    "precipitation_231": 14,
+    "precipitation_271": 5
+  }
+]

@@ -23,8 +23,7 @@ const Header = ({ children, headerActions }) => {
         <div>{headerActions}</div>
       </header>
 
-      <div className="bg-"></div>
-      <section className=" container mx-auto bg-gray-200">{children}</section>
+      <section className="container mx-auto bg-gray-200">{children}</section>
     </main>
   );
 };
