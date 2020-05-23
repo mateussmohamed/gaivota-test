@@ -1,17 +1,14 @@
 import React, { useState, useEffect } from "react";
-import { Route, Redirect, withRouter } from "react-router-dom";
-import { PropTypes } from "prop-types";
+import { Route, Redirect, useRouteMatch } from "react-router-dom";
 
 import { isAuthenticated } from "../../services/auth";
 
-import Login from "../login";
+import Login from "../auth/pages/login";
 import Farms from "../farms/pages/farms";
 import FarmDetail from "../farms/pages/farm-detail";
 
-const checkRoutes = ["", "/", "/app", "/app/"];
-
-const App = (props) => {
-  const { location, match } = props;
+const App = () => {
+  const match = useRouteMatch();
   const [logged, setLogged] = useState(false);
   const [loading, setLoading] = useState(true);
 
@@ -25,7 +22,7 @@ const App = (props) => {
       setLogged(true);
       setLoading(false);
     } catch (err) {
-      setLogged(true);
+      setLogged(false);
       setLoading(false);
     }
   };
@@ -36,28 +33,17 @@ const App = (props) => {
 
   if (loading) return null;
 
-  const isRoot = checkRoutes.includes(location.pathname);
-
-  if (!logged && location.pathname.includes("login")) {
-    return <Redirect to="/login" />;
-  }
-
-  if (isRoot) {
-    return <Redirect to="/app/farms" />;
-  }
-
   return (
     <>
+      <Route path={`${match.url}login`} component={Login} />
+
       <Route path={`${match.url}app/farms`} component={Farms} />
       <Route path={`${match.url}app/farm/:farm_id`} component={FarmDetail} />
-      <Route path={`${match.url}login`} component={Login} />
+
+      {!logged && <Redirect to="/login" />}
+      {logged && <Redirect to="/app/farms" />}
     </>
   );
 };
 
-App.propTypes = {
-  location: PropTypes.object,
-  match: PropTypes.object,
-};
-
-export default withRouter(App);
+export default App;
