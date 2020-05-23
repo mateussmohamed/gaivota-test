@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
 
 import Layout from "../../../components/layout";
+import Select from "../../../components/select";
 
 import FarmMap from "../components/farm-map";
 import FarmInformation from "../components/farm-information";
-import FarmSelect from "../components/farm-select";
 
 import { getFarms, getFarm, getFarmGeoJSON } from "../../../services/farms";
 
@@ -34,7 +34,8 @@ const Farms = () => {
           <FarmMap geoJson={currentMapGeoJSON} />
         </div>
         <div className="w-1/2 p-4">
-          <FarmSelect
+          <Select
+            label="Farm"
             options={farmOptions}
             value={selectedFarm}
             onChange={handleSelectFarm}
