@@ -43,7 +43,7 @@ const App = (props) => {
   }
 
   if (isRoot) {
-    return <Redirect to="/app/home" />;
+    return <Redirect to="/app/farms" />;
   }
 
   return (
