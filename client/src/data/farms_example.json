@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2018-01-01",
+    "example_221": 0,
+    "example_231": 18,
+    "example_271": 20
+  },
+  {
+    "date": "2018-01-02",
+    "example_221": 15,
+    "example_231": 20,
+    "example_271": 23
+  },
+  {
+    "date": "2018-01-03",
+    "example_221": 11,
+    "example_231": 23,
+    "example_271": 10
+  },
+  {
+    "date": "2018-01-04",
+    "example_221": 14,
+    "example_231": 2,
+    "example_271": 24
+  },
+  {
+    "date": "2018-01-05",
+    "example_221": 14,
+    "example_231": 21,
+    "example_271": 10
+  },
+  {
+    "date": "2018-01-06",
+    "example_221": 15,
+    "example_231": 21,
+    "example_271": 2
+  },
+  {
+    "date": "2018-01-07",
+    "example_221": 3,
+    "example_231": 5,
+    "example_271": 5
+  },
+  {
+    "date": "2018-01-08",
+    "example_221": 13,
+    "example_231": 10,
+    "example_271": 16
+  },
+  {
+    "date": "2018-01-09",
+    "example_221": 20,
+    "example_231": 20,
+    "example_271": 14
+  },
+  {
+    "date": "2018-01-10",
+    "example_221": 11,
+    "example_231": 20,
+    "example_271": 4
+  },
+  {
+    "date": "2018-01-11",
+    "example_221": 25,
+    "example_231": 24,
+    "example_271": 18
+  },
+  {
+    "date": "2018-01-12",
+    "example_221": 9,
+    "example_231": 12,
+    "example_271": 5
+  },
+  {
+    "date": "2018-01-13",
+    "example_221": 0,
+    "example_231": 16,
+    "example_271": 20
+  },
+  {
+    "date": "2018-01-14",
+    "example_221": 5,
+    "example_231": 14,
+    "example_271": 3
+  },
+  {
+    "date": "2018-01-15",
+    "example_221": 24,
+    "example_231": 10,
+    "example_271": 2
+  },
+  {
+    "date": "2018-01-16",
+    "example_221": 6,
+    "example_231": 19,
+    "example_271": 24
+  },
+  {
+    "date": "2018-01-17",
+    "example_221": 6,
+    "example_231": 11,
+    "example_271": 3
+  },
+  {
+    "date": "2018-01-18",
+    "example_221": 12,
+    "example_231": 1,
+    "example_271": 14
+  },
+  {
+    "date": "2018-01-19",
+    "example_221": 3,
+    "example_231": 21,
+    "example_271": 6
+  },
+  {
+    "date": "2018-01-20",
+    "example_221": 0,
+    "example_231": 10,
+    "example_271": 11
+  },
+  {
+    "date": "2018-01-21",
+    "example_221": 8,
+    "example_231": 23,
+    "example_271": 19
+  },
+  {
+    "date": "2018-01-22",
+    "example_221": 9,
+    "example_231": 3,
+    "example_271": 5
+  },
+  {
+    "date": "2018-01-23",
+    "example_221": 5,
+    "example_231": 21,
+    "example_271": 16
+  },
+  {
+    "date": "2018-01-24",
+    "example_221": 13,
+    "example_231": 3,
+    "example_271": 18
+  }
+]
