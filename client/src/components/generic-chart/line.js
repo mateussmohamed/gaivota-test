@@ -10,12 +10,12 @@ import {
   Line,
 } from "recharts";
 
-const LineChart = ({ data, dataValues, dataKeys }) => {
+const LineChart = ({ data, dataValues, dataKeys, min, max }) => {
   return (
     <RLineChart width={735} height={300} data={data}>
       <CartesianGrid strokeDasharray="3 3" />
       {dataKeys.map((key, index) => (
-        <XAxis key={`${key}-${index}`} dataKey={key} domain={[0, 1]} />
+        <XAxis key={`${key}-${index}`} dataKey={key} domain={[min, max]} />
       ))}
       <YAxis />
       <Tooltip />
@@ -31,6 +31,8 @@ LineChart.propTypes = {
   data: PropTypes.array.isRequired,
   dataValues: PropTypes.array.isRequired,
   dataKeys: PropTypes.array.isRequired,
+  min: PropTypes.number,
+  max: PropTypes.number,
 };
 
 export default LineChart;

@@ -25,7 +25,11 @@ const FarmDetail = () => {
       <div className="bg-gray-200">
         <div className="flex mb-4">
           <div className="w-3/4 p-4">
-            <FarmMap geoJson={currentMapGeoJSON} height={330} />
+            <FarmMap
+              name={farm.name}
+              geoJson={currentMapGeoJSON}
+              height={330}
+            />
           </div>
           <div className="w-1/2 p-4">
             <FarmInformation farm={farm} />

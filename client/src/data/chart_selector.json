@@ -16,6 +16,13 @@
       "chart_type": "bar",
       "min_value": 0,
       "max_value": 25
+    },
+    {
+      "id": 2,
+      "name": "example",
+      "chart_type": "bar",
+      "min_value": 0,
+      "max_value": 25
     }
   ]
 }

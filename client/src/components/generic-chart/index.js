@@ -9,12 +9,7 @@ import LineChart from "./line";
 
 import chartSelector from "../../data/chart_selector.json";
 
-import { getFarmNdvi, getFarmPrecipitation } from "../../services/farms";
-
-const chartData = {
-  ndvi: getFarmNdvi(),
-  precipitation: getFarmPrecipitation(),
-};
+import { getFarmChartData } from "../../services/farms";
 
 const GenericChart = ({ farm }) => {
   const [selectedChart, setChart] = useState(chartSelector.options[0]);
@@ -33,9 +28,11 @@ const GenericChart = ({ farm }) => {
   };
 
   const chartProps = {
-    data: chartData[selectedChart.name],
+    data: getFarmChartData(selectedChart.name),
     dataValues: [`${selectedChart.name}_${farm.farm_id}`],
     dataKeys: ["date"],
+    min: selectedChart.min_value,
+    max: selectedChart.max_value,
   };
 
   return (

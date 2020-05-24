@@ -31,7 +31,7 @@ const Farms = () => {
     <Layout>
       <div className="flex mb-4 bg-gray-200">
         <div className="w-3/4 p-4">
-          <FarmMap geoJson={currentMapGeoJSON} />
+          <FarmMap name={currentFarm.name} geoJson={currentMapGeoJSON} />
         </div>
         <div className="w-1/2 p-4">
           <Select

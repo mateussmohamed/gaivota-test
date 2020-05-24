@@ -10,12 +10,12 @@ import {
   Bar,
 } from "recharts";
 
-const BarChart = ({ data, dataValues, dataKeys }) => {
+const BarChart = ({ data, dataValues, dataKeys, min, max }) => {
   return (
     <RBarChart width={735} height={300} data={data}>
       <CartesianGrid strokeDasharray="3 3" />
       {dataKeys.map((key, index) => (
-        <XAxis key={`${key}-${index}`} dataKey={key} domain={[0, 25]} />
+        <XAxis key={`${key}-${index}`} dataKey={key} domain={[min, max]} />
       ))}
       <YAxis />
       <Tooltip />
@@ -31,6 +31,8 @@ BarChart.propTypes = {
   data: PropTypes.array.isRequired,
   dataValues: PropTypes.array.isRequired,
   dataKeys: PropTypes.array.isRequired,
+  min: PropTypes.number,
+  max: PropTypes.number,
 };
 
 export default BarChart;
