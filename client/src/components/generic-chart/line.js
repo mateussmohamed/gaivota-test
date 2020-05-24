@@ -15,13 +15,13 @@ const LineChart = ({ data, dataValues, dataKeys }) => {
     <RLineChart width={735} height={300} data={data}>
       <CartesianGrid strokeDasharray="3 3" />
       {dataKeys.map((key, index) => (
-        <XAxis key={`${key}-${index}`} dataKey={key} />
+        <XAxis key={`${key}-${index}`} dataKey={key} domain={[0, 1]} />
       ))}
       <YAxis />
       <Tooltip />
       <Legend />
       {dataValues.map((value, index) => (
-        <Line key={`${value}-${index}`} dataKey={value} />
+        <Line key={`${value}-${index}`} stroke="#82ca9d" dataKey={value} />
       ))}
     </RLineChart>
   );

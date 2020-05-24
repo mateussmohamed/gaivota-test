@@ -15,13 +15,13 @@ const BarChart = ({ data, dataValues, dataKeys }) => {
     <RBarChart width={735} height={300} data={data}>
       <CartesianGrid strokeDasharray="3 3" />
       {dataKeys.map((key, index) => (
-        <XAxis key={`${key}-${index}`} dataKey={key} />
+        <XAxis key={`${key}-${index}`} dataKey={key} domain={[0, 25]} />
       ))}
       <YAxis />
       <Tooltip />
       <Legend />
       {dataValues.map((value, index) => (
-        <Bar key={`${value}-${index}`} dataKey={value} />
+        <Bar key={`${value}-${index}`} fill="#8884d8" dataKey={value} />
       ))}
     </RBarChart>
   );
