@@ -1,18 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { ErrorMessage } from "react-hook-form";
+import { ErrorMessage, useFormContext } from "react-hook-form";
+
 import { classNames } from "react-extras";
 
-const Input = ({
-  label,
-  name,
-  placeholder,
-  type,
-  register,
-  autoComplete,
-  validate,
-  errors,
-}) => {
+const Input = ({ label, name, placeholder, type, validate, autoComplete }) => {
+  const { register, errors } = useFormContext();
+
   return (
     <div className="mb-4">
       <label
@@ -46,13 +40,11 @@ const Input = ({
 
 Input.propTypes = {
   label: PropTypes.string.isRequired,
-  register: PropTypes.func,
   name: PropTypes.string.isRequired,
   type: PropTypes.string,
   autoComplete: PropTypes.string,
   placeholder: PropTypes.string,
   validate: PropTypes.object,
-  errors: PropTypes.object,
 };
 
 Input.defaultProps = {

@@ -1,15 +1,16 @@
 import React from "react";
 import { render } from "react-dom";
 
-import Root from "./routes/root";
+import Routes from "./routes";
 
 import * as serviceWorker from "./serviceWorker";
 
+import "react-toastify/dist/ReactToastify.css";
 import "./styles/main.generated.css";
 
 render(
   <React.StrictMode>
-    <Root />
+    <Routes />
   </React.StrictMode>,
   document.getElementById("root")
 );

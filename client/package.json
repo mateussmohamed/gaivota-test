@@ -33,6 +33,7 @@
     "react-leaflet": "^2.7.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "react-toastify": "^6.0.5",
     "recharts": "^1.8.5",
     "tailwindcss": "^1.4.6"
   },
